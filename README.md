@@ -17,7 +17,7 @@ To run these simulations, I used the open-source hydrodynamical code [FARGO3D](h
 # Repository Structure
 * `src/`: The modified C source code of FARGO3D.
 * `setups/`: Parameter files and initial conditions used for the simulations.
-* `report/`: My final thesis document in PDF format.
+* `report.pdf`: My final thesis document in PDF format (in Italian).
 
 # Main Results
 The simulations demonstrated that MHD winds are significantly more efficient than viscous models in forming deep gaps and multiple narrow, dense dust rings, greatly expanding the parameter space capable of reproducing observed disk substructures.
