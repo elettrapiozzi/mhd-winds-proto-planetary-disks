@@ -22,5 +22,9 @@ To run these simulations, I used the open-source hydrodynamical code [FARGO3D](h
 # Main Results
 The simulations demonstrated that MHD winds are significantly more efficient than viscous models in forming deep gaps and multiple narrow, dense dust rings, greatly expanding the parameter space capable of reproducing observed disk substructures.
 
+<img width="1420" height="550" alt="dischi_protoplanetari" src="https://github.com/user-attachments/assets/b8e7ccfd-b98a-4a88-a397-f88540f8c704" />
+*Figure: 2D maps of the surface density distribution for gas (left) and dust (right) in a wind-driven disk scenario.*
+
 # Original FARGO3D
 For general information on how to compile and run the base version of the code, please refer to the official [FARGO3D website and documentation](https://github.com/FARGO3D/fargo3d).
+
